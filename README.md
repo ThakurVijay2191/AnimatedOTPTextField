@@ -24,7 +24,7 @@ Designed for modern iOS apps that require smooth UX for verification, login, or 
 1. In Xcode, open **File ▸ Add Packages...**
 2. Enter the repository URL:
    ```text
-   https://github.com/yourusername/AnimatedOTPTextField.git
+   https://github.com/ThakurVijay2191/AnimatedOTPTextField.git
    ```
 3. Choose **Add Package** and import it into your target.
 
@@ -93,9 +93,20 @@ AnimatedOTPTextField(config: config, value: $otpCode) { otp in
 
 ## 📱 Preview
 
-| Rounded Border | Underlined |
-|----------------|-------------|
-| ![Rounded Example](Docs/rounded.png) | ![Underlined Example](Docs/underlined.png) |
+<table>
+  <tr>
+    <th>Rounded Border</th>
+    <th>Underlined</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/3a4a3455-b309-46bf-9caf-628ef1717ab3" width="300"/>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/04e2c40a-913b-4c94-a6a1-2af5a52625fb" width="300"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
